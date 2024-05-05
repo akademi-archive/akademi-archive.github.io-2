@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "02899557973cca55",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7e2e8d8aeec615f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fec60b48138d672d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hungerbox.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48ffc2f524ab3127",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Taxation for Microsoft Stock.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5c200d888722ce9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compa Ratio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9993dce107af1bdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creating aka.ms links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b610a5dcc679a69b",
+    "type": "split",
+    "children": [
+      {
+        "id": "01a1c1393ff4ea1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9240f6406e159e99",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2e13e725d78a2d87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb6a7272c427e3ba",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "8a2ef3c0c5961411",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9135276d1c239f67",
+    "type": "split",
+    "children": [
+      {
+        "id": "e89eb918f800c0af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15037b6c0b90ba0d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Creating aka.ms links.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d162768e2b23aa4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Creating aka.ms links.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a10f2a6ac45b18f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "16f134b02681adfe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Creating aka.ms links.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9993dce107af1bdc",
+  "lastOpenFiles": [
+    "Employee Stock Purchase Program (ESPP).md",
+    "EY Process Pay.md",
+    "Flex Points.md",
+    "Signals.md",
+    "Compa Ratio.md",
+    "Creating aka.ms links.md",
+    "Career Guides.md",
+    "Accessibility Specs.md",
+    "Building Access.md",
+    "[Accessibility.md",
+    "Miscellaneous perks.md",
+    "Taxation for Microsoft Stock.md",
+    "Employee Stock Ownership Plan (ESOP).md",
+    "Team Admin.md",
+    "Employee Stock Ownership Plan (ESOP)] or via [Employee Stock Purchase Program [ESPP.md",
+    "Hungerbox.md",
+    "Joining Formalities.md",
+    "Employee Provident Fund (EPF).md",
+    "MoveInSync.md",
+    "Learning Resources.md",
+    "New Joinee Checklist.md",
+    "Full Time Employee (FTE).md",
+    "Amex Corporate Card.md",
+    "aka.ms.md",
+    "India Perks+.md",
+    "Health & Insurance.md"
+  ]
+}

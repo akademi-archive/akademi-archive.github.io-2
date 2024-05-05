@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "02899557973cca55",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d14739784fc43a5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Miscellaneous perks.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b610a5dcc679a69b",
+    "type": "split",
+    "children": [
+      {
+        "id": "01a1c1393ff4ea1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9240f6406e159e99",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2e13e725d78a2d87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb6a7272c427e3ba",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9135276d1c239f67",
+    "type": "split",
+    "children": [
+      {
+        "id": "e89eb918f800c0af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15037b6c0b90ba0d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Miscellaneous perks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d162768e2b23aa4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Miscellaneous perks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a10f2a6ac45b18f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "16f134b02681adfe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Miscellaneous perks.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5d14739784fc43a5",
+  "lastOpenFiles": [
+    "People and Groups.md",
+    "New Joinee Checklist.md",
+    "MyExpense.md",
+    "Miscellaneous perks.md",
+    "Learning Resources.md",
+    "Holidays and Vacations.md",
+    "Flex Points.md",
+    "Career Guides.md",
+    "Employee Stock Ownership Plan (ESOP).md",
+    "Welcome to Microsoft IDC.md"
+  ]
+}
