@@ -1,6 +1,7 @@
 {
-  "accentColor": "#ccef6b",
+  "accentColor": "#000000",
   "cssTheme": "",
   "monospaceFontFamily": "JetBrains Mono",
-  "textFontFamily": "Galvji"
+  "textFontFamily": "Galvji",
+  "theme": "moonstone"
 }

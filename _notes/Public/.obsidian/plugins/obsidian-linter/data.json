@@ -5,7 +5,7 @@
     },
     "Insert YAML attributes": {
       "Inserts the given YAML attributes into the YAML frontmatter. Put each attribute on a single line.": true,
-      "Text to insert": "feed: show"
+      "Text to insert": "filed-under:\ntitle: \nsubtitle:\nauthor:\nauthor-bio:\ncover-art:\ncover-artist:"
     },
     "YAML Timestamp": {
       "Keep track of the date the file was last edited in the YAML front matter. Gets dates from file metadata.": true,
@@ -18,7 +18,7 @@
     "YAML Title": {
       "Inserts the title of the file into the YAML frontmatter. Gets the title from the first H1 or filename.": false,
       "Title Key": "title",
-      "Inserts the title of the file into the YAML frontmatter. Gets the title from the first H1 or filename if there is no H1.": true
+      "Inserts the title of the file into the YAML frontmatter. Gets the title from the first H1 or filename if there is no H1.": false
     },
     "Header Increment": {
       "Heading levels should only increment by one level at a time": false
@@ -111,9 +111,9 @@
       "YAML Keys to Remove": ""
     },
     "YAML Key Sort": {
-      "Sorts the YAML keys based on the order and priority specified. Note: may remove blank lines as well.": false,
-      "YAML Key Priority Sort Order": "",
-      "Priority Keys at Start of YAML": true,
+      "Sorts the YAML keys based on the order and priority specified. Note: may remove blank lines as well.": true,
+      "YAML Key Priority Sort Order": "filed-under, title, subtitle, author, author-bio, cover-art, cover-artist, date, date-modified",
+      "Priority Keys at Start of YAML": false,
       "YAML Sort Order for Other Keys": "None"
     },
     "YAML Title Alias": {
@@ -123,7 +123,7 @@
       "Use the YAML key `linter-yaml-title-alias` to help with filename and heading changes": true
     },
     "Convert Bullet List Markers": {
-      "Converts common bullet list marker symbols to markdown list markers.": false
+      "Converts common bullet list marker symbols to markdown list markers.": true
     },
     "Emphasis Style": {
       "Makes sure the emphasis style is consistent.": false,
